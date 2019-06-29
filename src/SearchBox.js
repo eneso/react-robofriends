@@ -1,7 +1,5 @@
 import React from 'react';
-import CardList from './CardList';
-import SearchBox from './SeachBox';
-import {robots} from './robots'; 
+
 
 const SearchBox = () => {
     return (
@@ -10,3 +8,4 @@ const SearchBox = () => {
 }
 
 export default SearchBox;
+
